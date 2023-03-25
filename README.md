@@ -1,8 +1,8 @@
 # TABLEAU-ME-EXAM
 
-# 1 : - Explain in detail the area graphs and line graphs in tableau and how to create them with examples. (With the help of an example create one in tableau)
+## 1 : - Explain in detail the area graphs and line graphs in tableau and how to create them with examples. (With the help of an example create one in tableau)
 
-## Area Graphs in Tableau
+### Area Graphs in Tableau
 Area graphs are used to display how a particular measure or variable changes over time, or across different categories. In an area graph, the area under the curve is filled with color, creating a visual representation of the data. Area graphs are often used to show trends in data, and can be useful when comparing the relative values of different categories.
 To create an area graph in Tableau using the Sample Superstore dataset, follow these steps:
 Open Tableau and connect to the Sample Superstore dataset.
