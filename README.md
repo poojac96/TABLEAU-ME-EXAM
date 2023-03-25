@@ -4,10 +4,15 @@
 
 ### Area Graphs in Tableau
 Area graphs are used to display how a particular measure or variable changes over time, or across different categories. In an area graph, the area under the curve is filled with color, creating a visual representation of the data. Area graphs are often used to show trends in data, and can be useful when comparing the relative values of different categories.
+
 To create an area graph in Tableau using the Sample Superstore dataset, follow these steps:
+
 Open Tableau and connect to the Sample Superstore dataset.
+
 Drag the "Order Date" field to the columns shelf, and drag the measure you want to graph (such as "Sales" or "Profit") to the rows shelf.
+
 Click on the "Show Me" button in the top right corner of the screen, and select the "Area" graph type.
+
 Tableau will automatically create an area graph showing the selected measure over time. You can further customize the graph by adding additional dimensions, colors, or labels.
 Here's an example of what an area graph in Tableau might look like using the Sample Superstore dataset:
 Tableau Area Graph Example
